@@ -14,7 +14,7 @@ Travis Media's [Why You NEED To Learn FastAPI | Hands-On Project](https://youtu.
 
 I strongly recommend you move on to the second tutorial that moves from an in-memory/transient list of todos to a SQLlite-based persistent one, the tutorial video you can find at Travis' [Dev Importers Community](https://community.travis.media/).
 
-I've publicly shared an implementation of what is taught in the first two tutorials, and I will also make that available here on GitHub.  Clone or download a copy of the [fast-todo repo](https://github.com/Bobbu/fast-todos) if you want to avoid building one yourself.
+I've also publicly shared an implementation of what is taught in the first two tutorials. Clone or download a copy of the [fast-todo repo](https://github.com/Bobbu/fast-todos) if you want to avoid building one yourself.
 
 
 ## Context
